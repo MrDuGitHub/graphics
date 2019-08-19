@@ -1,0 +1,11 @@
+﻿  model_loading.cpp
+e:\data\vs\opengl-test\opengl-test\model_loading.cpp(209): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\data\vs\opengl-test\opengl-test\model_loading.cpp(424): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\data\vs\opengl-test\opengl-test\model_loading.cpp(425): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\data\vs\opengl-test\opengl-test\model_loading.cpp(429): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\data\vs\opengl-test\opengl-test\model_loading.cpp(430): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\data\vs\opengl-test\opengl-test\model_loading.cpp(432): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\data\vs\opengl-test\opengl-test\model_loading.cpp(433): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\data\vs\opengl-test\opengl-test\model_loading.cpp(498): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  OpenGL-test.vcxproj -> E:\data\VS\OpenGL-test\Debug\OpenGL-test.exe
+  OpenGL-test.vcxproj -> E:\data\VS\OpenGL-test\Debug\OpenGL-test.pdb (Partial PDB)

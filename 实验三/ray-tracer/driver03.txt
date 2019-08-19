@@ -1,0 +1,11 @@
+eye 0 0 10
+look 0 0 0
+up 0 1 0
+d 5
+bounds -2 -2 2 2
+res 512 512
+recursionLevel 5
+ambient 0.1 0 0
+light 0 5 5 1 1.0 0.0 0.0
+
+model 1.0 0.0 0.0 0 0.45 0 0 0 sharp nanosuit1.obj	
